@@ -1,0 +1,2 @@
+.Person__cell{border:1px solid pink;padding:5px}.PeopleTable{border-collapse:collapse;margin-top:10px}.MainNavigation__list,.PeopleTable__heading{text-transform:uppercase}.MainNavigation__list{display:flex;justify-content:space-between;width:350px;margin:5px auto}.MainNavigation__link{text-decoration:none}.is-active,.MainNavigation__link:hover{color:pink}*{box-sizing:border-box;margin:0;padding:0;color:grey}.App{width:720px;margin:0 auto;text-align:center}.App__title{text-transform:uppercase;margin:10px 0}
+/*# sourceMappingURL=main.7d22046f.chunk.css.map */
